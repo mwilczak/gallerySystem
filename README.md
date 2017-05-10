@@ -1,1 +1,1 @@
-# gallerySystem
+portal do uploadowania zdjęć
